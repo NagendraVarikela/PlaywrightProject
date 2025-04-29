@@ -1,0 +1,23 @@
+{
+    "test_data": {
+        "currentAge": 40,
+        "retirementAge": 68,
+        "currentAnnualIncome": 100000,
+        "spouseAnnualIncome": 75000,
+        "currentRetirementSavings": 500000,
+        "currentRetirementContribution": 10,
+        "annualRetirementContributionIncrease": 1,
+        "socialSecurityIncome": true,
+        "relationshipStatus": "Married",
+        "socialSecurityOverride": 4000,
+        "additionalIncome": 500,
+        "retirementYears": 20,
+        "postRetirementIncomeIncreaseWithInflation": true,
+        "finalAnnualIncomeDesiredPercentage": 75,
+        "preRetirementInvestmentReturn": 8,
+        "postRetirementInvestmentReturn": 5,
+        "resultsMessage":"Congratulations!",
+        "expectedRetirementAmount":"$3,034,580.88",
+        "expectedCurrentSavings":"$500,000"
+    }
+}
